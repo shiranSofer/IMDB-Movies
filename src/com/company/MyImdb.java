@@ -37,10 +37,15 @@ public class MyImdb {
     }
 
     public void search(String str) {
+        boolean isContains = false;
         for(int i = 0; i < this.allMovies.length; i++) {
-            if(this.allMovies[i].checkIfContains(str) != null)
+            if(this.allMovies[i].checkIfContains(str) != null) {
                 System.out.println(this.allMovies[i]);
+                isContains = true;
+            }
         }
+        if(!isContains)
+            System.out.println("Sorry, No movie found.");
     }
     public void save(String fileName) throws FileNotFoundException {
         File file = new File(fileName);

@@ -503,18 +503,18 @@ PG
 2h 40min
 Milos Forman
 F. Murray Abraham, Tom Hulce, Elizabeth Berridge 
-Pather Panchali
-Drama 
-Not Rated
-2h 5min
-Satyajit Ray
-Kanu Bannerjee, Karuna Bannerjee, Subir Banerjee 
 Inglourious Basterds
 Adventure, Drama, War 
 R
 2h 33min
 Quentin Tarantino
 Brad Pitt, Diane Kruger, Eli Roth 
+Pather Panchali
+Drama 
+Not Rated
+2h 5min
+Satyajit Ray
+Kanu Bannerjee, Karuna Bannerjee, Subir Banerjee 
 Good Will Hunting
 Drama, Romance 
 PG
@@ -779,18 +779,18 @@ R
 2h 12min
 John McTiernan
 Bruce Willis, Alan Rickman, Bonnie Bedelia 
-Monty Python and the Holy Grail
-Adventure, Comedy, Fantasy 
-PG
-1h 31min
-Terry Gilliam Terry Jones
-Graham Chapman, John Cleese, Eric Idle 
 Green Book
 Biography, Comedy, Drama 
 PG-13
 2h 10min
 Peter Farrelly
 Viggo Mortensen, Mahershala Ali, Linda Cardellini 
+Monty Python and the Holy Grail
+Adventure, Comedy, Fantasy 
+PG
+1h 31min
+Terry Gilliam Terry Jones
+Graham Chapman, John Cleese, Eric Idle 
 Der Untergang
  
 R
@@ -1385,18 +1385,18 @@ R
 2h 28min
 Sean Penn
 Emile Hirsch, Vince Vaughn, Catherine Keener 
-Amores perros
-Drama, Thriller 
-R
-2h 34min
-Alejandro G. Iñárritu
-Emilio Echevarría, Gael García Bernal, Goya Toledo 
 Koe no katachi
 Animation, Drama, Romance 
 Not Rated
 2h 10min
 Naoko Yamada
 Miyu Irino, Saori Hayami, Aoi Yûki 
+Amores perros
+Drama, Thriller 
+R
+2h 34min
+Alejandro G. Iñárritu
+Emilio Echevarría, Gael García Bernal, Goya Toledo 
 Fa yeung nin wah
 Drama, Romance 
 PG
@@ -1493,9 +1493,9 @@ Not Rated
 2h 40min
 Jeethu Joseph
 Mohanlal, Meena, Asha Sharath 
-Paris, Texas
-Drama 
-R
-2h 25min
-Wim Wenders
-Harry Dean Stanton, Nastassja Kinski, Dean Stockwell 
+Drishyam 2
+Crime, Drama, Thriller 
+
+2h 32min
+Jeethu Joseph
+Mohanlal, Meena, Ansiba 

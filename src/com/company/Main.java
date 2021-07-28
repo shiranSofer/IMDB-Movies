@@ -53,7 +53,7 @@ public class Main {
 
     }
 
-    public static void loadMoviesFromWeb() throws IOException {
+    private static void loadMoviesFromWeb() throws IOException {
         System.out.println("Loading... ... ...");
 
         Document top250Document = Jsoup.connect("https://www.imdb.com/chart/top/?ref_=nv_mv_250")
@@ -108,6 +108,7 @@ public class Main {
             stars = "";
         }
         MyImdb myImdb = new MyImdb(movies);
+        System.out.println("Done!");
         myImdb.save(FILE_NAME);
     }
 }
