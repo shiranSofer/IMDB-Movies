@@ -3,15 +3,16 @@ package com.company;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class MyImdb {
-    private Movie[] allMovies;
+    private ArrayList<Movie> allMovies;
 
-    public MyImdb(Movie[] allMovies){
-        this.allMovies = new Movie[allMovies.length];
-        for(int i = 0; i < this.allMovies.length; i++) {
-            this.allMovies[i] = new Movie(allMovies[i]);
+    public MyImdb(ArrayList<Movie> allMovies){
+        this.allMovies = new ArrayList<Movie>(allMovies.size());
+        for(int i = 0; i < allMovies.size(); i++) {
+            this.allMovies.add(i, new Movie(allMovies.get(i)));
         }
     }
 
@@ -21,48 +22,49 @@ public class MyImdb {
 
         int numOfMovies = s.nextInt();
         s.nextLine();
-        this.allMovies = new Movie[numOfMovies];
+        this.allMovies = new ArrayList<Movie>();
         for(int i = 0; i < numOfMovies; i++) {
-            this.allMovies[i] = new Movie(s);
+            this.allMovies.add(new Movie(s));
         }
         s.close();
     }
 
-    public Movie[] getAllMovies() {
+    public ArrayList<Movie> getAllMovies() {
         return allMovies;
     }
 
     public int getLength() {
-        return this.allMovies.length;
+        return this.allMovies.size();
     }
 
-    public void search(String str) {
-        boolean isContains = false;
-        for(int i = 0; i < this.allMovies.length; i++) {
-            if(this.allMovies[i].checkIfContains(str) != null) {
-                System.out.println(this.allMovies[i]);
-                isContains = true;
-            }
-        }
-        if(!isContains)
-            System.out.println("Sorry, No movie found.");
-    }
     public void save(String fileName) throws FileNotFoundException {
         File file = new File(fileName);
         PrintWriter pw = new PrintWriter(file);
 
-        pw.println(this.allMovies.length);
-        for(int i = 0; i < this.allMovies.length; i++) {
-            this.allMovies[i].save(pw);
+        pw.println(this.allMovies.size());
+        for(int i = 0; i < this.allMovies.size(); i++) {
+            this.allMovies.get(i).save(pw);
+        }
+        pw.close();
+    }
+
+    public void saveResult(String fileName, String searchKey) throws FileNotFoundException {
+        File file = new File(fileName);
+        PrintWriter pw = new PrintWriter(file);
+
+        pw.println("Result file for search key: \"" + searchKey + "\"");
+        pw.println("________________________________________________\n");
+        for(int i = 0; i < this.allMovies.size(); i++) {
+            this.allMovies.get(i).saveResult(pw);
         }
         pw.close();
     }
 
     @Override
     public String toString() {
-        StringBuilder listOfMovies = new StringBuilder("IMDB Movies List:\n");
+        StringBuilder listOfMovies = new StringBuilder();
         for(int i = 0; i < this.getLength(); i++) {
-            listOfMovies.append("\t").append(i + 1).append(".\t").append(this.allMovies[i].toString()).append("\n");
+            listOfMovies.append("\t").append(i + 1).append(".\t").append(this.allMovies.get(i).toString()).append("\n");
         }
         return listOfMovies.toString();
     }

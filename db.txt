@@ -1,1501 +1,1183 @@
-250
-The Shawshank Redemption
-Drama 
-PG
-2h 22min
-Frank Darabont
-Tim Robbins, Morgan Freeman, Bob Gunton 
-The Godfather
-Crime, Drama 
-PG
-2h 55min
-Francis Ford Coppola
-Marlon Brando, Al Pacino, James Caan 
-The Godfather: Part II
-Crime, Drama 
-PG
-3h 22min
-Francis Ford Coppola
-Al Pacino, Robert De Niro, Robert Duvall 
-The Dark Knight
-Action, Crime, Drama 
-PG-13
-2h 32min
-Christopher Nolan
-Christian Bale, Heath Ledger, Aaron Eckhart 
-12 Angry Men
-Crime, Drama 
-Approved
-1h 36min
-Sidney Lumet
-Henry Fonda, Lee J. Cobb, Martin Balsam 
-Schindler's List
-Biography, Drama, History 
-PG
-3h 15min
-Steven Spielberg
-Liam Neeson, Ralph Fiennes, Ben Kingsley 
-The Lord of the Rings: The Return of the King
-Action, Adventure, Drama 
-PG
-3h 21min
-Peter Jackson
-Elijah Wood, Viggo Mortensen, Ian McKellen 
-Pulp Fiction
-Crime, Drama 
-18
-2h 34min
-Quentin Tarantino
-John Travolta, Uma Thurman, Samuel L. Jackson 
-Il buono, il brutto, il cattivo
-Western 
-R
-2h 41min
-Sergio Leone
-Clint Eastwood, Eli Wallach, Lee Van Cleef 
-The Lord of the Rings: The Fellowship of the Ring
-Action, Adventure, Drama 
-PG
-2h 58min
-Peter Jackson
-Elijah Wood, Ian McKellen, Orlando Bloom 
-Fight Club
-Drama 
-16
-2h 19min
-David Fincher
-Brad Pitt, Edward Norton, Meat Loaf 
-Forrest Gump
-Drama, Romance 
-PG
-2h 22min
-Robert Zemeckis
-Tom Hanks, Robin Wright, Gary Sinise 
-Inception
+197
+Star Trek
 Action, Adventure, Sci-Fi 
-PG-13
-2h 28min
-Christopher Nolan
-Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page 
-The Lord of the Rings: The Two Towers
-Action, Adventure, Drama 
-PG
-2h 59min
-Peter Jackson
-Elijah Wood, Ian McKellen, Viggo Mortensen 
-Star Wars: Episode V - The Empire Strikes Back
-Action, Adventure, Fantasy 
-PG
-2h 4min
-Irvin Kershner
-Mark Hamill, Harrison Ford, Carrie Fisher 
-The Matrix
-Action, Sci-Fi 
-PG
-2h 16min
-Lana Wachowski Lilly Wachowski
-Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss 
-Goodfellas
-Biography, Crime, Drama 
-16
-2h 26min
-Martin Scorsese
-Robert De Niro, Ray Liotta, Joe Pesci 
-One Flew Over the Cuckoo's Nest
-Drama 
-R
-2h 13min
-Milos Forman
-Jack Nicholson, Louise Fletcher, Michael Berryman 
-Shichinin no samurai
- 
-Not Rated
-3h 27min
-
- 
-Se7en
-Crime, Drama, Mystery 
-18
-2h 7min
-David Fincher
-Morgan Freeman, Brad Pitt, Kevin Spacey 
-Cidade de Deus
-Crime, Drama 
-16
-2h 10min
-Fernando Meirelles Kátia Lund
-Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele 
-The Silence of the Lambs
-Crime, Drama, Thriller 
-18
-1h 58min
-Jonathan Demme
-Jodie Foster, Anthony Hopkins, Lawrence A. Bonney 
-La vita è bella
-Comedy, Drama, Romance 
-PG-13
-1h 56min
-Roberto Benigni
-Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini 
-It's a Wonderful Life
-Drama, Family, Fantasy 
-PG
-2h 10min
-Frank Capra
-James Stewart, Donna Reed, Lionel Barrymore 
-Star Wars
-Action, Adventure, Fantasy 
-PG
-2h 1min
-George Lucas
-Mark Hamill, Harrison Ford, Carrie Fisher 
-Saving Private Ryan
-Drama, War 
-PG
-2h 49min
-Steven Spielberg
-Tom Hanks, Matt Damon, Tom Sizemore 
-Sen to Chihiro no kamikakushi
-Animation, Adventure, Family 
-PG
-2h 5min
-Hayao Miyazaki
-Daveigh Chase, Suzanne Pleshette, Miyu Irino 
-Interstellar
-Adventure, Drama, Sci-Fi 
-PG-13
-2h 49min
-Christopher Nolan
-Matthew McConaughey, Anne Hathaway, Jessica Chastain 
-The Green Mile
-Crime, Drama, Fantasy 
-R
-3h 9min
-Frank Darabont
-Tom Hanks, Michael Clarke Duncan, David Morse 
-Gisaengchung
-Comedy, Drama, Thriller 
-16
-2h 12min
-Bong Joon Ho
-Kang-ho Song, Sun-kyun Lee, Yeo-jeong Cho 
-Léon
-Action, Crime, Drama 
-PG
-1h 50min
-Luc Besson
-Jean Reno, Gary Oldman, Natalie Portman 
-Seppuku
- 
-Not Rated
-2h 13min
-
- 
-The Usual Suspects
-Crime, Mystery, Thriller 
-R
-1h 46min
-Bryan Singer
-Kevin Spacey, Gabriel Byrne, Chazz Palminteri 
-The Pianist
-Biography, Drama, Music 
-R
-2h 30min
-Roman Polanski
-Adrien Brody, Thomas Kretschmann, Frank Finlay 
-Back to the Future
-Adventure, Comedy, Sci-Fi 
-PG
-1h 56min
-Robert Zemeckis
-Michael J. Fox, Christopher Lloyd, Lea Thompson 
-Terminator 2: Judgment Day
-Action, Sci-Fi 
-PG
-2h 17min
-James Cameron
-Arnold Schwarzenegger, Linda Hamilton, Edward Furlong 
-Modern Times
- 
-G
-1h 27min
-
- 
-Psycho
-Horror, Mystery, Thriller 
-16
-1h 49min
-Alfred Hitchcock
-Anthony Perkins, Janet Leigh, Vera Miles 
-The Lion King
-Animation, Adventure, Drama 
-G
-1h 28min
-Roger Allers Rob Minkoff
-Matthew Broderick, Jeremy Irons, James Earl Jones 
-American History X
-Drama 
-18
-1h 59min
-Tony Kaye
-Edward Norton, Edward Furlong, Beverly D'Angelo 
-City Lights
- 
-G
-1h 27min
-
- 
-Hotaru no haka
-Animation, Drama, War 
-Not Rated
-1h 29min
-Isao Takahata
-Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi 
-Gladiator
-Action, Adventure, Drama 
-PG
-2h 35min
-Ridley Scott
-Russell Crowe, Joaquin Phoenix, Connie Nielsen 
-Whiplash
-Drama, Music 
-R
-1h 46min
-Damien Chazelle
-Miles Teller, J.K. Simmons, Melissa Benoist 
-The Departed
-Crime, Drama, Thriller 
-16
-2h 31min
-Martin Scorsese
-Leonardo DiCaprio, Matt Damon, Jack Nicholson 
-The Intouchables
-Biography, Comedy, Drama 
-R
-1h 52min
-Olivier Nakache Éric Toledano
-François Cluzet, Omar Sy, Anne Le Ny 
-The Prestige
-Drama, Mystery, Sci-Fi 
-PG-13
-2h 10min
-Christopher Nolan
-Christian Bale, Hugh Jackman, Scarlett Johansson 
-Casablanca
-Drama, Romance, War 
-PG
-1h 42min
-Michael Curtiz
-Humphrey Bogart, Ingrid Bergman, Paul Henreid 
-Once Upon a Time in the West
-Western 
-PG-13
-2h 45min
-Sergio Leone
-Henry Fonda, Charles Bronson, Claudia Cardinale 
-Rear Window
-Mystery, Thriller 
-PG
-1h 52min
-Alfred Hitchcock
-James Stewart, Grace Kelly, Wendell Corey 
-Nuovo Cinema Paradiso
-Drama, Romance 
-PG
-2h 35min
-Giuseppe Tornatore
-Philippe Noiret, Enzo Cannavale, Antonella Attili 
-Alien
-Horror, Sci-Fi 
-16
-1h 57min
-Ridley Scott
-Sigourney Weaver, Tom Skerritt, John Hurt 
-Apocalypse Now
-Drama, Mystery, War 
-PG
-2h 27min
-Francis Ford Coppola
-Martin Sheen, Marlon Brando, Robert Duvall 
-Memento
-Mystery, Thriller 
-R
-1h 53min
-Christopher Nolan
-Guy Pearce, Carrie-Anne Moss, Joe Pantoliano 
-Raiders of the Lost Ark
-Action, Adventure 
-PG
-1h 55min
-Steven Spielberg
-Harrison Ford, Karen Allen, Paul Freeman 
-The Great Dictator
-Comedy, Drama, War 
-G
-2h 5min
-Charles Chaplin
-Charles Chaplin, Paulette Goddard, Jack Oakie 
-The Lives of Others
- 
-R
-2h 17min
-
- 
-Django Unchained
-Drama, Western 
-R
-2h 45min
-Quentin Tarantino
-Jamie Foxx, Christoph Waltz, Leonardo DiCaprio 
-Paths of Glory
-Drama, War 
-Approved
-1h 28min
-Stanley Kubrick
-Kirk Douglas, Ralph Meeker, Adolphe Menjou 
-Sunset Blvd.
-Drama, Film-Noir 
-Passed
-1h 50min
-Billy Wilder
-William Holden, Gloria Swanson, Erich von Stroheim 
-WALL·E
-Animation, Adventure, Family 
-G
-1h 38min
-Andrew Stanton
-Ben Burtt, Elissa Knight, Jeff Garlin 
-The Shining
-Drama, Horror 
-R
-2h 26min
-Stanley Kubrick
-Jack Nicholson, Shelley Duvall, Danny Lloyd 
-Avengers: Infinity War
-Action, Adventure, Sci-Fi 
-PG-13
-2h 29min
-Anthony Russo Joe Russo
-Robert Downey Jr., Chris Hemsworth, Mark Ruffalo 
-Witness for the Prosecution
-Crime, Drama, Mystery 
-Approved
-1h 56min
-Billy Wilder
-Tyrone Power, Marlene Dietrich, Charles Laughton 
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
-Comedy 
-PG
-1h 35min
-Stanley Kubrick
-Peter Sellers, George C. Scott, Sterling Hayden 
-Joker
-Crime, Drama, Thriller 
-16
-2h 2min
-Todd Phillips
-Joaquin Phoenix, Robert De Niro, Zazie Beetz 
-Spider-Man: Into the Spider-Verse
-Animation, Action, Adventure 
-PG
-1h 57min
-Bob Persichetti Peter Ramsey Rodney Rothman
-Shameik Moore, Jake Johnson, Hailee Steinfeld 
-Oldeuboi
-Action, Drama, Mystery 
-R
-2h
-Park Chan-Wook
-Choi Min-sik, Yoo Ji-Tae, Kang Hye-jeong 
-Mononoke-hime
-Animation, Action, Adventure 
-PG-13
-2h 14min
-Hayao Miyazaki
-Yôji Matsuda, Yuriko Ishida, Yûko Tanaka 
-Hamilton
-Biography, Drama, History 
-PG-13
-2h 40min
-Thomas Kail
-Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr. 
-Kimi no na wa.
-Animation, Drama, Fantasy 
 TV-PG
-1h 46min
-Makoto Shinkai
-Ryûnosuke Kamiki, Mone Kamishiraishi, Ryô Narita 
-Once Upon a Time in America
-Crime, Drama 
-R
-3h 49min
-Sergio Leone
-Robert De Niro, James Woods, Elizabeth McGovern 
-The Dark Knight Rises
-Action, Adventure 
-PG-13
-2h 44min
-Christopher Nolan
-Christian Bale, Tom Hardy, Anne Hathaway 
-Aliens
-Action, Adventure, Sci-Fi 
-R
-2h 17min
-James Cameron
-Sigourney Weaver, Michael Biehn, Carrie Henn 
-Coco
-Animation, Adventure, Drama 
-PG
-1h 45min
-Lee Unkrich Adrian Molina(co-directed by)
-Anthony Gonzalez, Gael García Bernal, Benjamin Bratt 
-Das Boot
-Adventure, Drama, Thriller 
+TV-PGTV-PG
 
-2h 29min
-Wolfgang Petersen
-Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann 
-Capharnaüm
-Drama 
-R
-2h 6min
-Nadine Labaki
-Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole 
-Avengers: Endgame
+William Shatner, Leonard Nimoy, DeForest Kelley 
+Star Trek
+Action, Adventure, Sci-Fi 
+PG-13
+2h 7min
+J.J. Abrams
+Chris Pine, Zachary Quinto, Simon Pegg 
+Star Trek: The Motion Picture
+Adventure, Mystery, Sci-Fi 
+G
+2h 12min
+Robert Wise
+William Shatner, Leonard Nimoy, DeForest Kelley 
+Star Trek: The Next Generation
+Action, Adventure, Mystery 
+TV-PG
+TV-PGTV-PG
+
+Patrick Stewart, Brent Spiner, Jonathan Frakes 
+Star Trek: Discovery
+Action, Adventure, Drama 
+TV-14
+TV-14TV-14
+
+Sonequa Martin-Green, Doug Jones, Anthony Rapp 
+Star Trek: Deep Space Nine
+Action, Adventure, Drama 
+TV-PG
+TV-PGTV-PG
+
+Avery Brooks, Rene Auberjonois, Cirroc Lofton 
+Star Trek: Voyager
+Action, Adventure, Sci-Fi 
+TV-PG
+TV-PGTV-PG
+
+Kate Mulgrew, Robert Beltran, Roxann Dawson 
+Star Trek: Picard
+Action, Adventure, Drama 
+TV-MA
+TV-MATV-MA
+
+Patrick Stewart, Alison Pill, Isa Briones 
+Star Trek Beyond
+Action, Adventure, Sci-Fi 
+PG-13
+2h 2min
+Justin Lin
+Chris Pine, Zachary Quinto, Karl Urban 
+Enterprise
+Action, Adventure, Drama 
+TV-PG
+TV-PGTV-PG
+
+Scott Bakula, John Billingsley, Jolene Blalock 
+Star Trek Into Darkness
+Action, Adventure, Sci-Fi 
+PG-13
+2h 12min
+J.J. Abrams
+Chris Pine, Zachary Quinto, Zoe Saldana 
+Star Trek: Short Treks
+Short, Action, Adventure 
+TV-PG
+TV-PGTV-PG
+
+Anson Mount, Ethan Peck, Rebecca Romijn 
+Star Trek: Lower Decks
+Animation, Action, Adventure 
+TV-MA
+TV-MATV-MA
+
+Tawny Newsome, Jack Quaid, Noël Wells 
+Star Trek: First Contact
 Action, Adventure, Drama 
 PG-13
-3h 1min
-Anthony Russo Joe Russo
-Robert Downey Jr., Chris Evans, Mark Ruffalo 
-Tengoku to jigoku
-Crime, Drama, Mystery 
-Not Rated
-2h 23min
-Akira Kurosawa
-Toshirô Mifune, Yutaka Sada, Tatsuya Nakadai 
-American Beauty
-Drama 
-PG
-2h 2min
-Sam Mendes
-Kevin Spacey, Annette Bening, Thora Birch 
-Toy Story
-Animation, Adventure, Comedy 
-G
-1h 21min
-John Lasseter
-Tom Hanks, Tim Allen, Don Rickles 
-3 Idiots
-Comedy, Drama 
+1h 51min
+Jonathan Frakes
+Patrick Stewart, Jonathan Frakes, Brent Spiner 
+Untitled Star Trek Sequel
+Action, Adventure, Mystery 
 PG-13
-2h 50min
-Rajkumar Hirani
-Aamir Khan, Madhavan, Mona Singh 
-Braveheart
-Biography, Drama, History 
-R
-2h 58min
-Mel Gibson
-Mel Gibson, Sophie Marceau, Patrick McGoohan 
-Amadeus
-Biography, Drama, History 
+1h 51min
+Matt Shakman
+Karl Urban, Zoe Saldana, Chris Pine 
+Star Trek: Generations
+Action, Adventure, Mystery 
 PG
-2h 40min
-Milos Forman
-F. Murray Abraham, Tom Hulce, Elizabeth Berridge 
-Inglourious Basterds
-Adventure, Drama, War 
-R
-2h 33min
-Quentin Tarantino
-Brad Pitt, Diane Kruger, Eli Roth 
-Pather Panchali
-Drama 
-Not Rated
-2h 5min
-Satyajit Ray
-Kanu Bannerjee, Karuna Bannerjee, Subir Banerjee 
-Good Will Hunting
-Drama, Romance 
+1h 58min
+David Carson
+Patrick Stewart, William Shatner, Malcolm McDowell 
+Star Trek: Insurrection
+Action, Adventure, Sci-Fi 
 PG
-2h 6min
-Gus Van Sant
-Robin Williams, Matt Damon, Ben Affleck 
-Star Wars: Episode VI - Return of the Jedi
+1h 43min
+Jonathan Frakes
+Patrick Stewart, Jonathan Frakes, Brent Spiner 
+Star Trek: Prodigy
+Animation, Action, Adventure 
+TV-Y7
+TV-Y7TV-Y7
+
+Rylee Alazraqui, Dee Bradley Baker, Brett Gray 
+Star Trek: Nemesis
+Action, Adventure, Sci-Fi 
+PG-13
+1h 56min
+Stuart Baird
+Patrick Stewart, Jonathan Frakes, Brent Spiner 
+Star Trek Continues
+Action, Adventure, Sci-Fi 
+PG-13
+1h 56min
+
+Vic Mignogna, Todd Haberkorn, Christopher Doohan 
+Star Trek
+Action, Adventure, Sci-Fi 
+T
+TT
+
+Chris Pine, Zachary Quinto, John Cho 
+Star Trek: Renegades
+Action, Adventure, Sci-Fi 
+T
+TT
+
+Walter Koenig, Adrienne Wilkinson, Manu Intiraymi 
+Star Trek II: The Wrath of Khan
+Action, Adventure, Sci-Fi 
+PG
+1h 53min
+Nicholas Meyer
+William Shatner, Leonard Nimoy, DeForest Kelley 
+Star Trek: Strange New Worlds
+Action, Adventure, Sci-Fi 
+PG
+1h 53min
+
+Anson Mount, Jess Bush, Ethan Peck 
+Star Trek VI: The Undiscovered Country
+Action, Adventure, Sci-Fi 
+PG
+1h 50min
+Nicholas Meyer
+William Shatner, Leonard Nimoy, DeForest Kelley 
+Star Trek III: The Search for Spock
+Action, Adventure, Sci-Fi 
+PG
+1h 45min
+Leonard Nimoy
+William Shatner, Leonard Nimoy, DeForest Kelley 
+Star Trek IV: The Voyage Home
+Action, Adventure, Comedy 
+PG
+1h 59min
+Leonard Nimoy
+William Shatner, Leonard Nimoy, DeForest Kelley 
+Star Trek
+Animation, Action, Adventure 
+TV-Y7
+TV-Y7TV-Y7
+
+William Shatner, Leonard Nimoy, DeForest Kelley 
+Star Trek V: The Final Frontier
 Action, Adventure, Fantasy 
 PG
-2h 11min
-Richard Marquand
-Mark Hamill, Harrison Ford, Carrie Fisher 
-2001: A Space Odyssey
-Adventure, Sci-Fi 
-PG
-2h 29min
-Stanley Kubrick
-Keir Dullea, Gary Lockwood, William Sylvester 
-Reservoir Dogs
-Crime, Drama, Thriller 
-18
-1h 39min
-Quentin Tarantino
-Harvey Keitel, Tim Roth, Michael Madsen 
-Taare Zameen Par
-Drama, Family 
-PG
-2h 45min
-Aamir Khan Amole Gupte(uncredited)
-Darsheel Safary, Aamir Khan, Tisca Chopra 
-M - Eine Stadt sucht einen Mörder
-Crime, Mystery, Thriller 
-Passed
-1h 57min
-Fritz Lang
-Peter Lorre, Ellen Widmann, Inge Landgut 
-Vertigo
-Mystery, Romance, Thriller 
-PG
-2h 8min
-Alfred Hitchcock
-James Stewart, Kim Novak, Barbara Bel Geddes 
-Citizen Kane
-Drama, Mystery 
-PG
-1h 59min
-Orson Welles
-Orson Welles, Joseph Cotten, Dorothy Comingore 
-Jagten
-Drama 
-R
-1h 55min
-Thomas Vinterberg
-Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp 
-Idi i smotri
-Drama, Thriller, War 
-Not Rated
-2h 22min
-Elem Klimov
-Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius 
-Requiem for a Dream
-Drama 
-Unrated
-1h 42min
-Darren Aronofsky
-Ellen Burstyn, Jared Leto, Jennifer Connelly 
-Singin' in the Rain
-Comedy, Musical, Romance 
-G
-1h 43min
-Stanley Donen Gene Kelly
-Gene Kelly, Donald O'Connor, Debbie Reynolds 
-North by Northwest
-Adventure, Mystery, Thriller 
-Approved
-2h 16min
-Alfred Hitchcock
-Cary Grant, Eva Marie Saint, James Mason 
-Eternal Sunshine of the Spotless Mind
-Drama, Romance, Sci-Fi 
-R
-1h 48min
-Michel Gondry
-Jim Carrey, Kate Winslet, Tom Wilkinson 
-Ladri di biciclette
-Drama 
-Not Rated
-1h 29min
-Vittorio De Sica
-Lamberto Maggiorani, Enzo Staiola, Lianella Carell 
-Ikiru
-Drama 
-Not Rated
-2h 23min
-Akira Kurosawa
-Takashi Shimura, Nobuo Kaneko, Shin'ichi Himori 
-Lawrence of Arabia
-Adventure, Biography, Drama 
-Approved
-3h 48min
-David Lean
-Peter O'Toole, Alec Guinness, Anthony Quinn 
-The Kid
- 
-Passed
-1h 8min
-
- 
-Dangal
-Action, Biography, Drama 
-Not Rated
-2h 41min
-Nitesh Tiwari
-Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh 
-Full Metal Jacket
-Drama, War 
-16
-1h 56min
-Stanley Kubrick
-Matthew Modine, R. Lee Ermey, Vincent D'Onofrio 
-The Father
-Drama 
-PG-13
-1h 37min
-Florian Zeller
-Anthony Hopkins, Olivia Colman, Mark Gatiss 
-A Clockwork Orange
-Crime, Drama, Sci-Fi 
-X
-2h 16min
-Stanley Kubrick
-Malcolm McDowell, Patrick Magee, Michael Bates 
-Metropolis
-Drama, Sci-Fi 
-Not Rated
-2h 33min
-Fritz Lang
-Brigitte Helm, Alfred Abel, Gustav Fröhlich 
-Taxi Driver
-Crime, Drama 
-18
-1h 54min
-Martin Scorsese
-Robert De Niro, Jodie Foster, Cybill Shepherd 
-The Apartment
-Comedy, Drama, Romance 
-Approved
-2h 5min
-Billy Wilder
-Jack Lemmon, Shirley MacLaine, Fred MacMurray 
-Double Indemnity
-Crime, Drama, Film-Noir 
-Passed
 1h 47min
-Billy Wilder
-Fred MacMurray, Barbara Stanwyck, Edward G. Robinson 
-Incendies
-Drama, Mystery, War 
-R
-2h 11min
-Denis Villeneuve
-Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette 
-The Sting
-Comedy, Crime, Drama 
-PG
-2h 9min
-George Roy Hill
-Paul Newman, Robert Redford, Robert Shaw 
-1917
-Drama, Thriller, War 
-R
-1h 59min
-Sam Mendes
-Dean-Charles Chapman, George MacKay, Daniel Mays 
-Jodaeiye Nader az Simin
-Drama 
-PG-13
-2h 3min
-Asghar Farhadi
-Payman Maadi, Leila Hatami, Sareh Bayat 
-Le fabuleux destin d'Amélie Poulain
-Comedy, Romance 
-R
-2h 2min
-Jean-Pierre Jeunet
-Audrey Tautou, Mathieu Kassovitz, Rufus 
-Snatch
-Comedy, Crime 
-R
-1h 44min
-Guy Ritchie
-Jason Statham, Brad Pitt, Stephen Graham 
-Scarface
-Crime, Drama 
-18
-2h 50min
-Brian De Palma
-Al Pacino, Michelle Pfeiffer, Steven Bauer 
-Toy Story 3
-Animation, Adventure, Comedy 
-G
-1h 43min
-Lee Unkrich
-Tom Hanks, Tim Allen, Joan Cusack 
-To Kill a Mockingbird
-Crime, Drama 
-Approved
-2h 9min
-Robert Mulligan
-Gregory Peck, John Megna, Frank Overton 
-Per qualche dollaro in più
-Western 
-R
-2h 12min
-Sergio Leone
-Clint Eastwood, Lee Van Cleef, Gian Maria Volontè 
-Up
-Animation, Adventure, Comedy 
-PG
-1h 36min
-Pete Docter Bob Peterson
-Edward Asner, Jordan Nagai, John Ratzenberger 
-Indiana Jones and the Last Crusade
-Action, Adventure 
-PG
-2h 7min
-Steven Spielberg
-Harrison Ford, Sean Connery, Alison Doody 
-L.A. Confidential
-Crime, Drama, Mystery 
-R
-2h 18min
-Curtis Hanson
-Kevin Spacey, Russell Crowe, Guy Pearce 
-Heat
-Crime, Drama, Thriller 
-R
-2h 50min
-Michael Mann
-Al Pacino, Robert De Niro, Val Kilmer 
-Rashômon
-Crime, Drama, Mystery 
-Not Rated
-1h 28min
-Akira Kurosawa
-Toshirô Mifune, Machiko Kyô, Masayuki Mori 
-Yôjinbô
-Action, Drama, Thriller 
-Not Rated
-1h 50min
-Akira Kurosawa
-Toshirô Mifune, Eijirô Tôno, Tatsuya Nakadai 
-Ran
-Action, Drama, War 
-R
-2h 42min
-Akira Kurosawa
-Tatsuya Nakadai, Akira Terao, Jinpachi Nezu 
-Die Hard
-Action, Thriller 
-R
-2h 12min
-John McTiernan
-Bruce Willis, Alan Rickman, Bonnie Bedelia 
-Green Book
-Biography, Comedy, Drama 
-PG-13
-2h 10min
-Peter Farrelly
-Viggo Mortensen, Mahershala Ali, Linda Cardellini 
-Monty Python and the Holy Grail
-Adventure, Comedy, Fantasy 
-PG
-1h 31min
-Terry Gilliam Terry Jones
-Graham Chapman, John Cleese, Eric Idle 
-Der Untergang
- 
-R
-2h 36min
-
- 
-All About Eve
-Drama 
-Passed
-2h 18min
-Joseph L. Mankiewicz
-Bette Davis, Anne Baxter, George Sanders 
-Some Like It Hot
-Comedy, Music, Romance 
-Passed
-2h 1min
-Billy Wilder
-Marilyn Monroe, Tony Curtis, Jack Lemmon 
-Batman Begins
-Action, Adventure 
-PG-13
-2h 20min
-Christopher Nolan
-Christian Bale, Michael Caine, Ken Watanabe 
-Unforgiven
-Drama, Western 
-PG
-2h 10min
-Clint Eastwood
-Clint Eastwood, Gene Hackman, Morgan Freeman 
-Bacheha-Ye aseman
-Drama, Family, Sport 
-PG
-1h 29min
-Majid Majidi
-Mohammad Amir Naji, Amir Farrokh Hashemian, Bahare Seddiqi 
-Hauru no ugoku shiro
-Animation, Adventure, Family 
-PG
-1h 59min
-Hayao Miyazaki
-Chieko Baishô, Takuya Kimura, Tatsuya Gashûin 
-The Wolf of Wall Street
-Biography, Crime, Drama 
-R
-3h
-Martin Scorsese
-Leonardo DiCaprio, Jonah Hill, Margot Robbie 
-The Great Escape
-Adventure, Drama, History 
-Approved
-2h 52min
-John Sturges
-Steve McQueen, James Garner, Richard Attenborough 
-Judgment at Nuremberg
-Drama, War 
-Approved
-2h 59min
-Stanley Kramer
-Spencer Tracy, Burt Lancaster, Richard Widmark 
-Casino
-Crime, Drama 
-18
-2h 58min
-Martin Scorsese
-Robert De Niro, Sharon Stone, Joe Pesci 
-The Treasure of the Sierra Madre
-Adventure, Drama, Western 
-Passed
-2h 6min
-John Huston
-Humphrey Bogart, Walter Huston, Tim Holt 
-There Will Be Blood
-Drama 
-R
-2h 38min
-Paul Thomas Anderson
-Daniel Day-Lewis, Paul Dano, Ciarán Hinds 
-Pan's Labyrinth
-Drama, Fantasy, War 
-R
-1h 58min
-Guillermo del Toro
-Ivana Baquero, Ariadna Gil, Sergi López 
-A Beautiful Mind
-Biography, Drama 
-PG-13
-2h 15min
-Ron Howard
-Russell Crowe, Ed Harris, Jennifer Connelly 
-El secreto de sus ojos
-Drama, Mystery, Romance 
-R
-2h 9min
-Juan José Campanella
-Ricardo Darín, Soledad Villamil, Pablo Rago 
-Raging Bull
-Biography, Drama, Sport 
-16
-2h 9min
-Martin Scorsese
-Robert De Niro, Cathy Moriarty, Joe Pesci 
-Tonari no Totoro
-Animation, Family, Fantasy 
-G
-1h 26min
-Hayao Miyazaki
-Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto 
-Chinatown
-Drama, Mystery, Thriller 
-R
-2h 10min
-Roman Polanski
-Jack Nicholson, Faye Dunaway, John Huston 
-Lock, Stock and Two Smoking Barrels
-Action, Comedy, Crime 
-R
-1h 47min
-Guy Ritchie
-Jason Flemyng, Dexter Fletcher, Nick Moran 
-The Gold Rush
-Adventure, Comedy, Drama 
-Passed
-1h 35min
-Charles Chaplin
-Charles Chaplin, Mack Swain, Tom Murray 
-Shutter Island
-Mystery, Thriller 
-R
-2h 18min
-Martin Scorsese
-Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo 
-No Country for Old Men
-Crime, Drama, Thriller 
-16
-2h 2min
-Ethan Coen Joel Coen
-Tommy Lee Jones, Javier Bardem, Josh Brolin 
-Three Billboards Outside Ebbing, Missouri
-Comedy, Crime, Drama 
-R
-1h 55min
-Martin McDonagh
-Frances McDormand, Woody Harrelson, Sam Rockwell 
-Dial M for Murder
-Crime, Thriller 
-PG
-1h 45min
-Alfred Hitchcock
-Ray Milland, Grace Kelly, Robert Cummings 
-Det sjunde inseglet
- 
-Not Rated
-1h 36min
-
- 
-The Elephant Man
-Biography, Drama 
-PG
-2h 4min
-David Lynch
-Anthony Hopkins, John Hurt, Anne Bancroft 
-The Thing
-Horror, Mystery, Sci-Fi 
-R
-1h 49min
-John Carpenter
-Kurt Russell, Wilford Brimley, Keith David 
-The Sixth Sense
-Drama, Mystery, Thriller 
-PG-13
-1h 47min
-M. Night Shyamalan
-Bruce Willis, Haley Joel Osment, Toni Collette 
-Klaus
-Animation, Adventure, Comedy 
-PG
-1h 36min
-Sergio Pablos Carlos Martínez López
-Jason Schwartzman, J.K. Simmons, Rashida Jones 
-V for Vendetta
-Action, Drama, Sci-Fi 
-PG
-2h 12min
-James McTeigue
-Hugo Weaving, Natalie Portman, Rupert Graves 
-Inside Out
-Animation, Adventure, Comedy 
-PG
-1h 35min
-Pete Docter Ronnie Del Carmen
-Amy Poehler, Bill Hader, Lewis Black 
-The Third Man
-Film-Noir, Mystery, Thriller 
-Approved
-1h 44min
-Carol Reed
-Orson Welles, Joseph Cotten, Alida Valli 
-Smultronstället
- 
-Not Rated
-1h 31min
-
- 
-Blade Runner
-Action, Sci-Fi, Thriller 
-PG
-1h 57min
-Ridley Scott
-Harrison Ford, Rutger Hauer, Sean Young 
-Trainspotting
-Drama 
-18
-1h 33min
-Danny Boyle
-Ewan McGregor, Ewen Bremner, Jonny Lee Miller 
-Salinui chueok
-Crime, Drama, Mystery 
-Not Rated
-2h 11min
-Bong Joon Ho
-Kang-ho Song, Kim Sang-kyung, Roe-ha Kim 
-The Truman Show
-Comedy, Drama 
-PG
-1h 43min
-Peter Weir
-Jim Carrey, Ed Harris, Laura Linney 
-Jurassic Park
+William Shatner
+William Shatner, Leonard Nimoy, DeForest Kelley 
+Star Trek: Of Gods and Men
 Action, Adventure, Sci-Fi 
 PG
-2h 7min
-Steven Spielberg
-Sam Neill, Laura Dern, Jeff Goldblum 
-The Bridge on the River Kwai
-Adventure, Drama, War 
+1h 47min
+Tim Russ
+Walter Koenig, Nichelle Nichols, Alan Ruck 
+Star Trek: First Frontier
+Sci-Fi 
 PG
-2h 41min
-David Lean
-William Holden, Alec Guinness, Jack Hawkins 
-Warrior
-Action, Drama, Sport 
-PG-13
-2h 20min
-Gavin O'Connor
-Tom Hardy, Nick Nolte, Joel Edgerton 
-Fargo
-Crime, Drama, Thriller 
-R
-1h 38min
-Joel Coen Ethan Coen(uncredited)
-William H. Macy, Frances McDormand, Steve Buscemi 
-Babam ve Oglum
- 
-Not Rated
-1h 52min
-
- 
-Finding Nemo
-Animation, Adventure, Comedy 
-G
-1h 40min
-Andrew Stanton Lee Unkrich
-Albert Brooks, Ellen DeGeneres, Alexander Gould 
-Gone with the Wind
-Drama, History, Romance 
-Passed
-3h 58min
-Victor Fleming George Cukor(uncredited) Sam Wood(uncredited)
-Clark Gable, Vivien Leigh, Thomas Mitchell 
-Kill Bill: Vol. 1
-Action, Crime, Drama 
-16
-1h 51min
-Quentin Tarantino
-Uma Thurman, David Carradine, Daryl Hannah 
-Tôkyô monogatari
-Drama 
-Not Rated
-2h 16min
-Yasujirô Ozu
-Chishû Ryû, Chieko Higashiyama, Sô Yamamura 
-On the Waterfront
-Crime, Drama, Thriller 
-Approved
-1h 48min
-Elia Kazan
-Marlon Brando, Karl Malden, Lee J. Cobb 
-Stalker
-Drama, Sci-Fi 
-Not Rated
-2h 42min
-Andrei Tarkovsky
-Alisa Freyndlikh, Aleksandr Kaydanovskiy, Anatoliy Solonitsyn 
-The General
-Action, Adventure, Comedy 
-Passed
-1h 7min
-Clyde Bruckman Buster Keaton
-Buster Keaton, Marion Mack, Glen Cavender 
-Relatos salvajes
-Comedy, Drama, Thriller 
-R
-2h 2min
-Damián Szifron
-Darío Grandinetti, María Marull, Mónica Villa 
-Sherlock Jr.
-Action, Comedy, Romance 
-Passed
-45min
-Buster Keaton
-Buster Keaton, Kathryn McGuire, Joe Keaton 
-The Deer Hunter
-Drama, War 
-R
-3h 3min
-Michael Cimino
-Robert De Niro, Christopher Walken, John Cazale 
-Gran Torino
-Drama 
-R
-1h 56min
-Clint Eastwood
-Clint Eastwood, Bee Vang, Christopher Carley 
-The Grand Budapest Hotel
-Adventure, Comedy, Crime 
-R
-1h 39min
-Wes Anderson
-Ralph Fiennes, F. Murray Abraham, Mathieu Amalric 
-Persona
-Drama, Thriller 
-Not Rated
-1h 25min
-Ingmar Bergman
-Bibi Andersson, Liv Ullmann, Margaretha Krook 
-Before Sunrise
-Drama, Romance 
-R
-1h 41min
-Richard Linklater
-Ethan Hawke, Julie Delpy, Andrea Eckert 
-Room
-Drama, Thriller 
-R
-1h 58min
-Lenny Abrahamson
-Brie Larson, Jacob Tremblay, Sean Bridgers 
-Mary and Max.
-Animation, Comedy, Drama 
-Not Rated
-1h 32min
-Adam Elliot
-Toni Collette, Philip Seymour Hoffman, Eric Bana 
-Prisoners
-Crime, Drama, Mystery 
-R
-2h 33min
-Denis Villeneuve
-Hugh Jackman, Jake Gyllenhaal, Viola Davis 
-Mr. Smith Goes to Washington
-Comedy, Drama 
-Passed
-2h 9min
-Frank Capra
-James Stewart, Jean Arthur, Claude Rains 
-In the Name of the Father
- 
-R
-2h 13min
-
- 
-Catch Me If You Can
-Biography, Crime, Drama 
-PG-13
-2h 21min
-Steven Spielberg
-Leonardo DiCaprio, Tom Hanks, Christopher Walken 
-Gone Girl
-Drama, Mystery, Thriller 
-R
-2h 29min
-David Fincher
-Ben Affleck, Rosamund Pike, Neil Patrick Harris 
-To Be or Not to Be
- 
-Passed
-1h 39min
-
- 
-Hacksaw Ridge
-Biography, Drama, History 
-R
-2h 19min
-Mel Gibson
-Andrew Garfield, Sam Worthington, Luke Bracey 
-Andhadhun
-Crime, Drama, Music 
-Not Rated
-2h 19min
-Sriram Raghavan
-Ayushmann Khurrana, Tabu, Radhika Apte 
-Barry Lyndon
-Adventure, Drama, History 
-PG
-3h 5min
-Stanley Kubrick
-Ryan O'Neal, Marisa Berenson, Patrick Magee 
-La passion de Jeanne d'Arc
-Biography, Drama, History 
-Passed
-1h 50min
-Carl Theodor Dreyer
-Maria Falconetti, Eugene Silvain, André Berley 
-The Big Lebowski
-Comedy, Crime, Sport 
-R
-1h 57min
-Joel Coen Ethan Coen(uncredited)
-Jeff Bridges, John Goodman, Julianne Moore 
-Ford v Ferrari
-Action, Biography, Drama 
-PG-13
-2h 32min
-James Mangold
-Matt Damon, Christian Bale, Jon Bernthal 
-12 Years a Slave
-Biography, Drama, History 
-R
-2h 14min
-Steve McQueen
-Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender 
-How to Train Your Dragon
-Animation, Action, Adventure 
-PG
-1h 38min
-Dean DeBlois Chris Sanders
-Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse 
-Mad Max: Fury Road
+1h 47min
+Kenneth Smith
+Robert Pralgo, Tara Ochs, Mark Ashworth 
+Star Trek: Captain Pike
 Action, Adventure, Sci-Fi 
-R
-2h
-George Miller
-Tom Hardy, Charlize Theron, Nicholas Hoult 
-Ben-Hur
-Adventure, Drama, History 
-G
-3h 32min
-William Wyler
-Charlton Heston, Jack Hawkins, Stephen Boyd 
-Dead Poets Society
-Comedy, Drama 
 PG
-2h 8min
-Peter Weir
-Robin Williams, Robert Sean Leonard, Ethan Hawke 
-Million Dollar Baby
-Drama, Sport 
-PG-13
-2h 12min
-Clint Eastwood
-Hilary Swank, Clint Eastwood, Morgan Freeman 
-Le salaire de la peur
-Adventure, Drama, Thriller 
-Not Rated
-2h 11min
-Henri-Georges Clouzot
-Yves Montand, Charles Vanel, Peter van Eyck 
-Höstsonaten
- 
+1h 47min
+Todd Shawn(attached)
+Eric Roberts, Chase Masterson, Ray Wise 
+Star Trek
+Sci-Fi 
 PG
-1h 39min
+1h 47min
 
  
-Network
-Drama 
-R
-2h 1min
-Sidney Lumet
-Faye Dunaway, William Holden, Peter Finch 
-Harry Potter and the Deathly Hallows: Part 2
-Adventure, Drama, Fantasy 
-PG-13
-2h 10min
-David Yates
-Daniel Radcliffe, Emma Watson, Rupert Grint 
-Stand by Me
-Adventure, Drama 
-R
-1h 29min
-Rob Reiner
-Wil Wheaton, River Phoenix, Corey Feldman 
-Ah-ga-ssi
-Drama, Romance, Thriller 
-Not Rated
-2h 25min
-Park Chan-Wook
-Kim Min-hee, Ha Jung-woo, Cho Jin-woong 
-Cool Hand Luke
-Crime, Drama 
-GP
-2h 7min
-Stuart Rosenberg
-Paul Newman, George Kennedy, Strother Martin 
-Les quatre cents coups
-Crime, Drama 
-Not Rated
-1h 39min
-François Truffaut
-Jean-Pierre Léaud, Albert Rémy, Claire Maurier 
-Logan
-Action, Drama, Sci-Fi 
-R
-2h 17min
-James Mangold
-Hugh Jackman, Patrick Stewart, Dafne Keen 
-Eskiya
- 
-Not Rated
-2h 8min
-
- 
-Hachi: A Dog's Tale
-Biography, Drama, Family 
-G
-1h 33min
-Lasse Hallström
-Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa 
-Platoon
-Drama, War 
+Star Trek: Odyssey
+Short, Sci-Fi 
 PG
-2h
-Oliver Stone
-Charlie Sheen, Tom Berenger, Willem Dafoe 
-La haine
-Crime, Drama 
-Not Rated
-1h 38min
-Mathieu Kassovitz
-Vincent Cassel, Hubert Koundé, Saïd Taghmaoui 
-Spotlight
-Biography, Crime, Drama 
-R
-2h 9min
-Tom McCarthy
-Mark Ruffalo, Michael Keaton, Rachel McAdams 
-Gangs of Wasseypur
-Action, Comedy, Crime 
-Not Rated
-5h 21min
-Anurag Kashyap
-Manoj Bajpayee, Richa Chadha, Nawazuddin Siddiqui 
-Life of Brian
+1h 47min
+
+Brandon McConnell, Michelle Laurent, Julia Morizawa 
+Star Trek: Horizon
+Action, Adventure, Sci-Fi 
+PG
+1h 47min
+Tommy Kraft
+Paul Lang, Marc Bowers, Ryan Webber 
+Star Trek: Progeny
+Sci-Fi 
+PG
+1h 47min
+
+Cassandra Scerbo, Rick Worthy, Francine York 
+Star Trek: Ben Burtt & the Sounds of Star Trek
+Documentary, Short 
+PG
+1h 47min
+
+Eric Bana, Ben Burtt, John Cho 
+Star Trek: Discovery Logs
+Short, Drama, Sci-Fi 
+PG
+1h 47min
+
+Sonequa Martin-Green, Doug Jones, Oyin Oladejo 
+Star Trek Online
+Action, Adventure, Sci-Fi 
+T
+TT
+Joe Lyford Lani Minella
+Leonard Nimoy, Zachary Quinto, Chase Masterson 
+Star Trek: Borg
+Action, Adventure, Sci-Fi 
+T
+TT
+James L. Conway
+John de Lancie, Barry Lynch, John Cothran 
+Star Trek: Explorer
+Animation, Sci-Fi 
+T
+TT
+
+Ingolf Bien, Klaus Schankin, Stefan Fritsche 
+Star Trek: Hidden Frontier
+Short, Action, Sci-Fi 
+T
+TT
+
+David Dial, Barbara Clifford, John Whiting 
+Star Trek: Dark Remnant
+Sci-Fi 
+T
+TT
+
+Jason LaShea, Zachary Quinto 
+Star Trek: Generations
+Action, Adventure, Sci-Fi 
+T
+TT
+Simon Ffinch Guymond Louie Rick Rasay
+Patrick Stewart, LeVar Burton, Jonathan Frakes 
+Star Trek: Legacy
+Action, Adventure, Sci-Fi 
+T
+TT
+
+William Shatner, Patrick Stewart, Avery Brooks 
+Star Trek Continues: The Vignettes
+Sci-Fi 
+T
+TT
+
+Vic Mignogna, Christopher Doohan, Chuck Huber 
+Star Trek Wars
+Short, Comedy 
+T
+TT
+Joshua Hoh
+Johnny Bolton, Ronan Barbour, Sophia Thomas 
+Star Trek: Klingon
+Action, Adventure, Sci-Fi 
+M
+MM
+Jonathan Frakes
+Robert O'Reilly, John Cothran, Joan Scheckel 
+Star Trek: New Voyages
+Action, Adventure, Sci-Fi 
+TV-PG
+TV-PGTV-PG
+
+Charles Root, John M. Kelley, James Cawley 
+Star Trek: Intrepid
+Sci-Fi 
+TV-PG
+TV-PGTV-PG
+
+Nick Cook, Stephen Pasqua, Hilary Tasker 
+Building Star Trek
+Documentary 
+TV-PG
+TV-PGTV-PG
+Mick Grogan
+Jim Conrad, Gerald Gurian, Nichelle Nichols 
+Star Trek III: Redemption
+Animation, Sci-Fi 
+TV-PG
+TV-PGTV-PG
+Brandon M. Bridges
+Majel Barrett, Brandon M. Bridges, Dennis Gard Robb 
+50 Years of Star Trek
+Documentary, Sci-Fi 
+TV-PG
+TV-PGTV-PG
+Ian Roumain
+J.J. Abrams, Mark A. Altman, John Barrowman 
+Star Trek: Hidden Evil
+Action, Adventure, Sci-Fi 
+T
+TT
+Jonathan Knight
+Christopher Gorham, Gregg Henry, Salome Jens 
+Star Trek: Judgment Rites
+Action, Adventure, Sci-Fi 
+E
+EE
+Greg Christensen(segments Federation, Voids) Chris DeSalvo(segments Sentinel, Light and Darkness) Chris Jones(segment No Man's Land)
+William Shatner, Leonard Nimoy, DeForest Kelley 
+Star Trek: Starfleet Academy
+Action, Adventure, Sci-Fi 
+E
+EE
+Martin Denning
+Brett Donowho, Julianna Robinson, Patricia Skeriotis 
+Car Trek
+Reality-TV 
+E
+EE
+
+Edward Bolian, Freddy Tavarish Hernandez, Tyler Hoover 
+Star Trek: Away Team
+Action, Sci-Fi 
+T
+TT
+
+Brent Spiner, Iris Bahr, Jerome Butler 
+Star Trek: GENESIS
+Action, Adventure, Sci-Fi 
+T
+TT
+
+Mollyana Ward, Suzy DeVore, Donny Watrous 
+Star Trek Reaction & Review
 Comedy 
-R
-1h 34min
-Terry Jones
-Graham Chapman, John Cleese, Michael Palin 
-Hotel Rwanda
-Biography, Drama, History 
-PG-13
-2h 1min
-Terry George
-Don Cheadle, Sophie Okonedo, Joaquin Phoenix 
-Monsters, Inc.
-Animation, Adventure, Comedy 
-G
-1h 32min
-Pete Docter David Silverman Lee Unkrich
-Billy Crystal, John Goodman, Mary Gibbs 
-Rebecca
-Drama, Mystery, Romance 
-Approved
-2h 10min
-Alfred Hitchcock
-Laurence Olivier, Joan Fontaine, George Sanders 
-Rush
-Action, Biography, Drama 
-R
-2h 3min
-Ron Howard
-Daniel Brühl, Chris Hemsworth, Olivia Wilde 
-Andrei Rublev
-Biography, Drama, History 
-R
-3h 25min
-Andrei Tarkovsky
-Anatoliy Solonitsyn, Ivan Lapikov, Nikolay Grinko 
-Into the Wild
-Adventure, Biography, Drama 
-R
-2h 28min
-Sean Penn
-Emile Hirsch, Vince Vaughn, Catherine Keener 
-Koe no katachi
-Animation, Drama, Romance 
-Not Rated
-2h 10min
-Naoko Yamada
-Miyu Irino, Saori Hayami, Aoi Yûki 
-Amores perros
-Drama, Thriller 
-R
-2h 34min
-Alejandro G. Iñárritu
-Emilio Echevarría, Gael García Bernal, Goya Toledo 
-Fa yeung nin wah
-Drama, Romance 
-PG
-1h 38min
-Kar-Wai Wong
-Tony Chiu-Wai Leung, Maggie Cheung, Siu Ping-Lam 
-Rocky
-Drama, Sport 
-PG
-2h
-John G. Avildsen
-Sylvester Stallone, Talia Shire, Burt Young 
-It Happened One Night
-Comedy, Romance 
-Passed
-1h 45min
-Frank Capra
-Clark Gable, Claudette Colbert, Walter Connolly 
-Kaze no tani no Naushika
-Animation, Adventure, Fantasy 
-
-1h 57min
-Hayao Miyazaki
-Sumi Shimamoto, Mahito Tsujimura, Hisako Kyôda 
-La battaglia di Algeri
-Drama, War 
-Not Rated
-2h 1min
-Gillo Pontecorvo
-Brahim Hadjadj, Jean Martin, Yacef Saadi 
-Ratsasan
-Action, Crime, Mystery 
-Not Rated
-2h 50min
-Ram Kumar
-Vishnu Vishal, Amala Paul, Radha Ravi 
-Before Sunset
-Drama, Romance 
-R
-1h 20min
-Richard Linklater
-Ethan Hawke, Julie Delpy, Vernon Dobtcheff 
-Fanny och Alexander
- 
-R
-3h 8min
+T
+TT
 
  
-Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni
-Animation, Action, Drama 
-TV-MA
-1h 27min
-Hideaki Anno(senior director) Kazuya Tsurumaki(segment Air)
-Megumi Ogata, Megumi Hayashibara, Yûko Miyamura 
-Trois couleurs: Rouge
-Drama, Mystery, Romance 
-R
-1h 39min
-Krzysztof Kieslowski
-Irène Jacob, Jean-Louis Trintignant, Frédérique Feder 
-Du rififi chez les hommes
-Crime, Drama, Thriller 
+Star Trek After They Were Famous
+Documentary 
+T
+TT
+
+Matthew Kelly, Walter Koenig, Nichelle Nichols 
+Star Trek Chris Stuckmann Movie Reviews
+Comedy, Talk-Show 
+T
+TT
+Chris Stuckmann
+Chris Stuckmann, John Flickinger 
+Star Trek The True Story
+Documentary, History 
+T
+TT
+Phil Stebbing
+Mark Bazeley, Anthony Atala, André Bormanis 
+Star Trek
+Sci-Fi 
 Not Rated
-1h 58min
-Jules Dassin
-Jean Servais, Carl Möhner, Robert Manuel 
-The Princess Bride
-Adventure, Family, Fantasy 
-PG
-1h 38min
-Rob Reiner
-Cary Elwes, Mandy Patinkin, Robin Wright 
-Kimetsu no Yaiba: Mugen Ressha-Hen
+Not RatedNot Rated
+Ian Gray
+ 
+Star Trek FX Movie Download
+Talk-Show 
+Not Rated
+Not RatedNot Rated
+Josh Berger
+Adam Gertler, Sasha Perl-Raver 
+Star Trek #1 Atop the Fourth Wall
+Comedy, Sci-Fi 
+Not Rated
+Not RatedNot Rated
+Lewis Lovhaug
+ 
+Star Trek DVD on TV
+Documentary 
+Not Rated
+Not RatedNot Rated
+
+ 
+Star Trek Merci Qui?
+Comedy 
+Not Rated
+Not RatedNot Rated
+Anthony Barthélémy
+Grégoire Lassalle, Kevin Sardet, Jessie Lambotte 
+Star Trek Weakest Link
+Game-Show 
+Not Rated
+Not RatedNot Rated
+
+ 
+Star Trek
+Sci-Fi 
+Not Rated
+Not RatedNot Rated
+Michael Quarles
+ 
+Star Trek Diminishing Returns
+Comedy, Talk-Show 
+Not Rated
+Not RatedNot Rated
+Sol Harris
+Sol Harris, Allen Turing, Calvin Dyson 
+Star Trek
+Sci-Fi 
+Not Rated
+Not RatedNot Rated
+
+ 
+Star Trek 2 Time & Again
+Documentary, News 
+Not Rated
+Not RatedNot Rated
+Liliana Olszewski
+ 
+Startrek Bed & Breakfast
+Comedy 
+Not Rated
+Not RatedNot Rated
+Paul Ruven
+ 
+Star Trek Bum Reviews
+Short, Comedy 
+Not Rated
+Not RatedNot Rated
+Doug Walker
+ 
+Star Trek Lets Talk Movies
+Comedy 
+Not Rated
+Not RatedNot Rated
+
+ 
+Star Trek American Dad!
+Animation, Comedy 
+Not Rated
+Not RatedNot Rated
+Mike Kim Ron Hughart(supervising director) Anthony Lioi(supervising director)
+Seth MacFarlane, Wendy Schaal, Scott Grimes 
+Star Trek Arabella
+Family, Reality-TV, Talk-Show 
+Not Rated
+Not RatedNot Rated
+
+Arabella Kiesbauer, Robert Amper 
+Star Trek Throwback Virtual Reading Sessions
+ 
+Not Rated
+Not RatedNot Rated
+
+Scott Poppaw, Ryan Palm, Rudy Ramirez 
+Star Trek V Cinematic Excrement
+Comedy 
+Not Rated
+Not RatedNot Rated
+Sean Moore
+ 
+Star Trek G4's Proving Ground
+Reality-TV 
+Not Rated
+Not RatedNot Rated
+
+Jessica Chobot, Tim Coston, Ryan Dunn 
+Star Trek Bad Days
 Animation, Action, Adventure 
-
-1h 57min
-Haruo Sotozaki
-Natsuki Hanae, Akari Kitô, Yoshitsugu Matsuoka 
-Sunrise: A Song of Two Humans
- 
-Passed
-1h 34min
-
- 
-Hera Pheri
-Action, Comedy, Crime 
 Not Rated
-2h 36min
-Priyadarshan
-Akshay Kumar, Sunil Shetty, Paresh Rawal 
-Drishyam
-Crime, Drama, Thriller 
+Not RatedNot Rated
+Davor Bujakovic Junaid Chundrigar
+ 
+Star Trek James's Daily Movie Reviews
+Reality-TV 
 Not Rated
-2h 40min
-Jeethu Joseph
-Mohanlal, Meena, Asha Sharath 
-Drishyam 2
-Crime, Drama, Thriller 
+Not RatedNot Rated
 
-2h 32min
-Jeethu Joseph
-Mohanlal, Meena, Ansiba 
+ 
+Star Trek Replay Value
+Talk-Show 
+Not Rated
+Not RatedNot Rated
+
+Warren Paul, Phillip Rynerson, Bob Thompson 
+Star Trek These are the Voyages
+Documentary 
+Not Rated
+Not RatedNot Rated
+
+ 
+Star Trek Screen Rant Pitch Meetings
+Comedy 
+Not Rated
+Not RatedNot Rated
+
+ 
+Star Trek Comics, Beer & Sci-Fi
+News, Talk-Show 
+Not Rated
+Not RatedNot Rated
+Denver Rochon
+Nick Moretti, Jill Janis, Brad Levin 
+Star Trek The Girls on Film
+Drama 
+Not Rated
+Not RatedNot Rated
+Jeff Hammond
+Ashleigh Harrington, Katerina Taxia 
+Star Trek The Toys That Made Us
+Documentary, Comedy, History 
+Not Rated
+Not RatedNot Rated
+Tom Stern
+Donald Ian Black, Doug Drexler, Rod Roddenberry 
+Star Trek The Philosophy of
+Comedy 
+Not Rated
+Not RatedNot Rated
+Richie Yau
+ 
+Star Trek
+Action, Sci-Fi 
+Not Rated
+Not RatedNot Rated
+
+ 
+Star Trek 4 5 Second Movies
+Short, Comedy 
+Not Rated
+Not RatedNot Rated
+
+ 
+Star Trek 30-Second Bunny Theatre
+Animation, Short, Comedy 
+Not Rated
+Not RatedNot Rated
+
+ 
+Star Trek Zero Punctuation
+Animation, Short, Comedy 
+Not Rated
+Not RatedNot Rated
+Yahtzee Croshaw
+ 
+Star Trek 3 5 Second Movies
+Short, Comedy 
+Not Rated
+Not RatedNot Rated
+
+ 
+Star Trek #9 Longbox of the Damned
+Short, Horror 
+Not Rated
+Not RatedNot Rated
+Lewis Lovhaug
+ 
+Star Trek The Angry Video Game Nerd
+Comedy, Fantasy, Sci-Fi 
+Not Rated
+Not RatedNot Rated
+James Rolfe
+James Rolfe, Mike Matei 
+Star Trek 2 5 Second Movies
+Short, Comedy 
+Not Rated
+Not RatedNot Rated
+
+ 
+Star Trek Script to Screen
+Talk-Show 
+Not Rated
+Not RatedNot Rated
+Janelle Axton
+ 
+Star Trek Honest Trailers
+Comedy 
+Not Rated
+Not RatedNot Rated
+Andy Signore
+ 
+Star Trek Zoom In
+Documentary 
+Not Rated
+Not RatedNot Rated
+
+ 
+Star Trek: Bridge Commander
+Action, Sci-Fi 
+E
+EE
+
+Patrick Stewart, Brent Spiner, Martha Hackett 
+Star Trek: The Romulan Wars
+Sci-Fi 
+E
+EE
+
+Lee Gartrell, Buddy Gartrell, Bryan Justice 
+Star Trek 25th Anniversary
+Action, Adventure, Sci-Fi 
+E
+EE
+Michael McConnohie
+George Almond, Robert V. Barron, Catherine Battistone 
+Star Trek: Enterprise E
+Sci-Fi 
+E
+EE
+
+Alex Olson, Liliana Reigart, Joe Olson 
+Star Trek II: Retribution
+Animation, Sci-Fi 
+E
+EE
+Brandon M. Bridges
+Majel Barrett, Brandon M. Bridges, Dennis Gard Robb 
+Star Trek Evolutions
+Short, Sci-Fi 
+E
+EE
+Tim King
+April Hebert, Leonard Nimoy, Vernon Ray Wilmer Jr. 
+Star Trek: Klingon Academy
+Action, Adventure, Sci-Fi 
+E
+EE
+Robb Hart
+J. Paul Boehmer, Wayne Grace, Blake Lindsley 
+Ultimate Trek: Star Trek's Greatest Moments
+Comedy, Sci-Fi 
+E
+EE
+Michael Stevens
+Jason Alexander, Robert Beltran, Avery Brooks 
+Star Trek: The Final Darkness
+Sci-Fi 
+E
+EE
+George Kayaian
+Michael J. Arbouet, Helen Kayaian, Keith Dallas 
+Stars Trek The Last of the Australians
+Comedy 
+E
+EE
+Ian Crawford Marie Trevor
+Alwyn Kurts, Rosie Sturgess, Stephen Thomas 
+Stars, Trek. Talk Stoop
+Talk-Show 
+E
+EE
+
+Alan Cumming, Cat Greenleaf, William Shatner 
+Star Trekking Arnie
+Comedy 
+E
+EE
+Roger Duchowny
+Herschel Bernardi, Sue Ane Langdon, Roger Bowen 
+Star Trek Voyager: Elite Force
+Action, Adventure, Sci-Fi 
+T
+TT
+Chris Foster
+Kate Mulgrew, Robert Beltran, Tim Russ 
+Star Trek: Secret Voyage
+Sci-Fi 
+T
+TT
+
+Tyrone Loukas, Annie Thalrose, Nicole Chauvet 
+Star Trek: Secrets of the Universe
+Documentary 
+T
+TT
+Anthony Giacchino
+J.J. Abrams, Bryan Burk, Paul Doherty 
+Star Trekking C's Get Degrees
+Comedy 
+T
+TT
+Josh Galuszka
+Andy Burt, Nicola Corser, Josh Galuszka 
+Star Trek: Armada II
+Action, Adventure, Sci-Fi 
+E
+EE
+
+Patrick Stewart, J.G. Hertzler, Alice Krige 
+Star Trek Timelines
+Sci-Fi 
+E
+EE
+
+Nicole de Boer, John de Lancie, Rene Auberjonois 
+Star Trek: Origins
+Sci-Fi 
+E
+EE
+
+Michael Dempsey, Stacey T. Gillespie, Mark Spencer 
+Kre-O Star Trek
+Animation, Short 
+E
+EE
+Keshen Sheken
+ 
+Star Trek: Reliant
+Sci-Fi 
+E
+EE
+
+Darren Hann, Joann Pelley, Peggy Dixon 
+Star Trek: Aurora
+Animation, Sci-Fi 
+E
+EE
+
+Jeannette Vining, Tim Vining, Bob Saur 
+Star Trek: The Journey to the Silver Screen
+Documentary 
+E
+EE
+Roger Lay Jr.
+Mark A. Altman, Richard Arnold, Thomas Barron 
+What We Left Behind: Looking Back at Deep Space Nine
+Documentary, Sci-Fi 
+E
+EE
+Ira Steven Behr David Zappone
+Max Grodénchik, Andrew Robinson, Armin Shimerman 
+Star Trek: Temporal Anomaly
+Action, Adventure, Sci-Fi 
+E
+EE
+Samuel Cockings
+Marcus Churchill, Kilian McIntosh, Chris Burdett 
+Star Trek: The Paradise Makers
+Animation, Adventure, Sci-Fi 
+E
+EE
+Gaston Huckabay
+Glen Averoigne, Robin Bernier, Wes Chambers 
+Star Trek: Eagle
+Sci-Fi 
+E
+EE
+
+Michael Stütelberg, Tanner Schaff, Elijah Morrissey 
+Star Trek: Enterprise - In a Time of War
+Documentary 
+E
+EE
+Roger Lay Jr.
+Scott Bakula, Rick Berman, John Billingsley 
+Star Trek Adventure
+Short, Adventure 
+E
+EE
+
+James Doohan, DeForest Kelley, Walter Koenig 
+Star Trek: Invasion
+Action, Adventure, Sci-Fi 
+E
+EE
+Ian Grieve
+Patrick Stewart, Michael Dorn, Judi M. Durand 
+Star Trek: Armada
+Action, Adventure, Sci-Fi 
+E
+EE
+Trey Watkins
+Patrick Stewart, Michael Dorn, Denise Crosby 
+Star Trek: The Experience - The Klingon Encounter
+Short, Action, Adventure 
+E
+EE
+Mario Kamberg David de Vos(hi-definition sequences)
+Vaughn Armstrong, C. Clayton Blackwell, LeVar Burton 
+Star Trek: Casting
+Documentary, Short 
+E
+EE
+
+J.J. Abrams, Eric Bana, John Cho 
+Star Trek: Federation One
+Action, Adventure, Sci-Fi 
+E
+EE
+
+Wayne Webb, Rivkah Raven Wood, Jacques Freydont 
+Star Trek Versus Batman
+Comedy 
+Not Rated
+Not RatedNot Rated
+Christopher Allen
+Joshua C. Ramsey, Scott Ganyo, Leo Barczewski 
+Star Trek: A Captain's Log
+Documentary 
+Not Rated
+Not RatedNot Rated
+Michael Mahler
+William Shatner, Leonard Nimoy, DeForest Kelley 
+Launch of Star Trek: Voyager
+Documentary 
+Not Rated
+Not RatedNot Rated
+
+Majel Barrett, Robert Blackman, Roxann Dawson 
+Fascinating: A Star Trek Podcast
+Sci-Fi 
+Not Rated
+Not RatedNot Rated
+
+Iain Bartholomew, Gerry 
+Star Trek World Tour
+ 
+Not Rated
+Not RatedNot Rated
+Winrich Kolbe
+John de Lancie, Owen de Lancie, Steve Richards 
+Star Trek: The Game Show
+Family, Game-Show 
+Not Rated
+Not RatedNot Rated
+H. Quinn
+Karen Cornwell, T. Buffalo Wagnon, Doug Stone 
+Star Trek: First Contact
+Action, Adventure, Sci-Fi 
+Not Rated
+Not RatedNot Rated
+
+ 
+Star Trek: Diplomacy, A Star Trek Fan Production
+Comedy, Drama, Sci-Fi 
+Not Rated
+Not RatedNot Rated
+
+Radek Belina, Eva Zelezna, Jakub Holý 
+Star Trek: The Section 31 Files
+Sci-Fi 
+Not Rated
+Not RatedNot Rated
+
+Carissa DeWitt, Mark Kalita, Elie Hirschman 
+Animated Star Trek
+Animation 
+Not Rated
+Not RatedNot Rated
+
+Curt Danhauser, Phoebe Danhauser, Adam Everett 
+Star Trek: Unity
+Sci-Fi 
+Not Rated
+Not RatedNot Rated
+
+Luke Sutton, Ian Pidgley, Adam Best 
+Star Trek: Henglaar, M.D.
+Sci-Fi 
+Not Rated
+Not RatedNot Rated
+
+Jeannie Lin, Mark Samarias, John Whiting 
+Star Trek Beyond: Beyond the Darkness
+Documentary, Short 
+Not Rated
+Not RatedNot Rated
+
+J.J. Abrams, Justin Lin, Simon Pegg 
+Star Trek: Osiris
+Sci-Fi 
+Not Rated
+Not RatedNot Rated
+
+Misty Mills, Mary Lynne Gibbs, Joseph Miller 
+Star Trek: Elite Force II
+Action, Adventure, Sci-Fi 
+Not Rated
+Not RatedNot Rated
+
+Patrick Stewart, Tim Russ, Dwight Schultz 
+Star Trek 25th Anniversary Special
+Documentary 
+Not Rated
+Not RatedNot Rated
+Donald R. Beck
+William Shatner, Leonard Nimoy, John Glenn 
+Star Trek: Invincible
+Action, Adventure, Sci-Fi 
+Not Rated
+Not RatedNot Rated
+
+Jeffrey Horne, Jack Marshall, Thom Stevens 
+Star Trek: Dark Horizon
+Sci-Fi 
+Not Rated
+Not RatedNot Rated
+Tom Jones
+Max Logan, Tom Jones, Clara Bardeen 
+Star Trek: Aliens
+Documentary, Short 
+Not Rated
+Not RatedNot Rated
+
+Eric Bana, Barney Burman, John Cho 
+Star Trek Enterprise: Der Zeitspiegel
+Animation, Short, Sci-Fi 
+Not Rated
+Not RatedNot Rated
+Jürgen Kaiser
+Jürgen Kaiser, Thomas Zeug, Meelah Adams 
+Star Trek: Hidden Identities
+Short, Sci-Fi 
+Not Rated
+Not RatedNot Rated
+Russ Emanuel
+Louise James, Julie Mallof, Aymeric Montouchet 
+Star Trek: Nemesis Review
+Short, Comedy 
+Not Rated
+Not RatedNot Rated
+Mike Stoklasa
+ 
+Star Trek 11 5 Second Movies
+Short, Comedy 
+Not Rated
+Not RatedNot Rated
+
+DeForest Kelley, Leonard Nimoy, William Shatner 
+Star Trek D·A·C
+Action, Adventure, Sci-Fi 
+E
+EE
+
+ 
+Star Trekkin Stone Trek
+Animation, Short, Comedy 
+E
+EE
+
+ 
+Star Trek (PC) Mike & Ryan Talk About Games
+ 
+E
+EE
+
+Mike Matei, Ryan Schott 
+Star Trek NES The Irate Gamer
+Comedy 
+E
+EE
+Chris Bores
+ 
+Star Trek 11 Making of...
+Documentary 
+E
+EE
+
+John Cho, Chris Pine, Zoe Saldana 
+Star Trek 101 FanGirl Academy: 101
+Documentary, Comedy, Sci-Fi 
+E
+EE
+
+ 
+Star Trek #2 (DC) Atop the Fourth Wall
+Comedy, Sci-Fi 
+E
+EE
+Lewis Lovhaug
+ 
+Star Trek 2009 All Positive Reviews
+Talk-Show 
+E
+EE
+Edmund Poliks
+Michi Nauman, Edmund Poliks 
+Star Trek Wars
+Short, Comedy 
+E
+EE
+Sean Conroy
+Sean Conroy, Dannah Feinglass Phirman 
+Star Trek Tech Modern Marvels
+Documentary, History 
+E
+EE
+John Logsdon
+ 
+Mac Star Trek San Diego Comic-Con 2016
+News 
+E
+EE
+
+ 
+Star Trek #4-5 Longbox of the Damned
+Short, Horror 
+E
+EE
+Lewis Lovhaug
+ 
+Star Trek III Standby: Lights! Camera! Action!
+Documentary, Family 
+E
+EE
+Stan Swan
+ 
+Star Trek 30 Time & Again
+Documentary, News 
+E
+EE
+Joe Parlagreco
+ 
+Over Star Trek Off Constantly
+Talk-Show 
+E
+EE
+D.W. Bauer
+Jason 'Bamba' Anderson, D.W. Bauer, Samantha Kreibich 
+Star Trek 3.5
+Sci-Fi 
+E
+EE
+
+ 
+Star Trek: 30 Years and Beyond
+Documentary 
+E
+EE
+Louis J. Horvitz
+Ted Danson, LeVar Burton, Joan Collins 
+Star Trek Beyond: Trekking in the Desert
+Documentary, Short 
+E
+EE
+
+John Cho, Justin Lin, Roberto Orci 
+Trek Geeks: A Star Trek Podcast
+ 
+E
+EE
+
+ 
+Drunken Star Trek
+Comedy 
+E
+EE
+
+Avery Conant, Jon Sung, Evie Vincent 
+Star Trek I: Specter of the Past
+Animation, Sci-Fi 
+E
+EE
+Brandon M. Bridges
+Brandon M. Bridges, Dennis Gard Robb, Scott Fack 
+Star Trek: The Helena Chronicles
+Sci-Fi 
+E
+EE
+
+Sharon Savene, Adam Browne, J.T. Tepnapa 
+Star Trek: The Next Generation
+Sci-Fi 
+E
+EE
+
+ 
+Star Trek the Tour
+Short, Sci-Fi 
+E
+EE
+
+Tim Russ, Wil Wheaton 
+Star Trek: The Infinite Chain
+Sci-Fi 
+E
+EE
+George Kayaian
+Helen Kayaian, Roland Marton, Joseph Marenus 
+Star Trek Into Darkness Special
+Documentary 
+E
+EE
+
+J.J. Abrams, Simon Pegg, Chris Pine 
+The Star Trek Dream
+Documentary 
+E
+EE
+Bob Wilkins
+James Doohan, DeForest Kelley, Walter Koenig 
+Leonard Nimoy: Star Trek Memories
+Documentary, Biography 
+E
+EE
+Kevin Curtis
+Leonard Nimoy, Majel Barrett, Joan Collins 
+Star Trek: Bridge Crew
+Adventure, Family, Sci-Fi 
+E10+
+E10+E10+
+Brian Tate(game director) David Votypka(creative director)
+Oliver Vaquer, Mary Elizabeth McGlynn, Miley Yamamoto 
+Star Trek: Deep Space Nine - The Fallen
+Action, Adventure, Sci-Fi 
+E10+
+E10+E10+
+
+Michael Dorn, Nana Visitor, Kevin Michael Richardson 
+Star Trek: Inside the Roddenberry Vault
+Documentary 
+E10+
+E10+E10+
+Roger Lay Jr.
+Stanley Adams, Mark A. Altman, Richard Arnold 
+Star Trek Insurrection Review
+Short, Comedy 
+Not Rated
+Not RatedNot Rated
+Mike Stoklasa
+ 
+Star Trek: Outlaws
+Sci-Fi 
+Not Rated
+Not RatedNot Rated
+
+Terry Self, Gary Davis, Randy Wrenn 
+Star Trek: The Next Generation - A Final Unity
+Adventure, Sci-Fi 
+Not Rated
+Not RatedNot Rated
+
+Patrick Stewart, Jonathan Frakes, Brent Spiner 
+Star Trek: Starships
+Documentary, Short 
+Not Rated
+Not RatedNot Rated
+
+J.J. Abrams, Eric Bana, John Cho 
+Star Trek: To Boldly Go
+Documentary, Short 
+Not Rated
+Not RatedNot Rated
+
+J.J. Abrams, Eric Bana, John Cho 
+Star Trek: Excalibur
+Short, Sci-Fi 
+Not Rated
+Not RatedNot Rated
+Samuel T. Cogley
+Joseph A. Kerezman, Tadao Tomomatsu, Joanne Kerezman 
+Star Trek Into Darkness: Ship to Ship
+Documentary, Short 
+Not Rated
+Not RatedNot Rated
+
+J.J. Abrams, Roger Guyett, Brad Alexander 
+Star Trek: Chains of Betrayal
+Sci-Fi 
+Not Rated
+Not RatedNot Rated
+Derek Howard Racan Souiedan
+Racan Souiedan, Darren Bot, John Rogers 

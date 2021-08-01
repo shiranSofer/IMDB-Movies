@@ -102,11 +102,8 @@ public class Movie {
         pw.println(arrayToString(this.stars));
     }
 
-    public Movie checkIfContains(String str) {
-        if(this.title.toLowerCase().contains(str.toLowerCase())){
-            return this;
-        }
-        return null;
+    public void saveResult(PrintWriter pw) {
+        pw.println(this);
     }
 
     @Override
